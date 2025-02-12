@@ -1,4 +1,4 @@
-# Student Project - Web Development1
+# Student Project - Web Development
 
 ## 📌 Project Overview
 This is a web application developed using the **SCRUM methodology**. The team will implement various features and demonstrate progress at the end of each sprint.
